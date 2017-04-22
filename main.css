@@ -8,16 +8,6 @@ body {
 h3 {
   text-align: center;
 }
-.img-with-text {
-    text-align: justify;
-    width: [304px];
-}
-
-.img-with-text img {
-    display: block;
-    margin: 0 auto;
-}
-
 body {
   text-align: center;
 }
